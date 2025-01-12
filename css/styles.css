@@ -1,0 +1,165 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #ffffff;
+  color: #434455;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+footer {
+  background-color: #2e2f42;
+}
+
+.logo {
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.logo2 {
+  color: #2e2f42;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.logo3 {
+  color: #f4f4fd;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 3%;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.header-bar,
+.header-bar-studio {
+  color: #2e2f42;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.header-bar:hover,
+.header-bar-studio:hover {
+  color: rgb(64, 75, 191);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.header-bar-studio:focus {
+  color: rgb(64, 75, 191);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.contacts {
+  color: #434455;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.order-page {
+  background-color: #2e2f42;
+}
+
+.order-title {
+  color: #ffffff;
+  font-size: 56px;
+  text-align: center;
+  line-height: 1.071;
+}
+
+.order-button {
+  color: #ffffff;
+  background-color: #4d5ae5;
+  width: 169px;
+  height: 56px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.advantages-title {
+  font-size: 20px;
+  color: #2e2f42;
+}
+
+.advantages-description {
+  line-height: 1.5;
+  color: #434455;
+}
+
+.employees-page {
+  background-color: #f4f4fd;
+}
+
+.employees-heading {
+  text-align: center;
+  font-size: 36px;
+  color: #2e2f42;
+}
+
+.employees-title {
+  font-size: 20px;
+  color: #2e2f42;
+  text-align: center;
+}
+
+.employees-list {
+  text-align: center;
+  line-height: 1.5;
+  padding-bottom: 4px;
+}
+
+.products-page {
+  color: #2e2f42;
+  font-size: 36px;
+  text-align: center;
+}
+
+.products-title {
+  font-size: 20px;
+  color: #2e2f42;
+}
+
+.products-description {
+  line-height: 1.5;
+  color: #434455;
+}
+
+.final-text {
+  line-height: 1.5;
+  color: #f4f4fd;
+}
