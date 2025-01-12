@@ -92,6 +92,13 @@ footer {
   letter-spacing: 0.02em;
 }
 
+.contacts:hover {
+  color: #404bbf;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
 .contacts:focus {
   color: #404bbf;
   font-style: normal;
