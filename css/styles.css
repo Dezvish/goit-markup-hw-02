@@ -59,18 +59,40 @@ footer {
   text-align: left;
 }
 
-.header-bar:hover .header-bar:focus {
+.header-bar:hover {
   color: #404bbf;
 }
 
-.contacts {
-  color: #434455;
+.header-bar:hover {
+  color: #404bbf;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+.header-bar:focus {
+  color: #404bbf;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.contacts:hover {
+  color: #404bbf;
   font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
-.contacts:hover {
+.contacts:focus {
   color: #404bbf;
   font-style: normal;
   line-height: 1.5;
